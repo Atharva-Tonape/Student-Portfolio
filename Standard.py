@@ -1,0 +1,38 @@
+name = input(" Enter Your name: ")
+print()
+std = int(input(" Enter Your Standard: "))
+print()
+div  = input(" Enter Division: ")[0]
+print()
+roll = int(input(" Enter your roll no: "))
+print()
+hist = int(input(" Enter the marks of History: "))
+print()
+math = int(input(" Enter your marks of Maths: "))
+print()
+sci = int(input(" Enter your Marks about sci: "))
+print()
+perc = int(input("Enter your Percentage: "))
+print()
+print()
+
+print(" Your biodata is: ")
+print()
+print()
+print(" Your name is: ",name)
+print()
+print(" Your Standard is: ", std)
+print()
+print(" Your Roll no is: ", roll)
+print()
+print(" Your History marks is: ",hist)
+print()
+print(" Your Maths marks is: ",math)
+print()
+print(" Your Science marks is: ",sci)
+print()
+print(" Your Percentage is: ",hist,"%")
+
+
+
+
